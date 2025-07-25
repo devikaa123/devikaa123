@@ -1,6 +1,6 @@
 ### Hi, I'm Devika!
 
-###I'm a Computer Science student passionate about learning and building cool tech projects.
+### I'm a Computer Science student passionate about learning and building cool tech projects.
 
 Currently Learning Full Stack Web Development (React, Tailwind CSS)
 
